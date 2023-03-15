@@ -5,6 +5,8 @@
 
 - This repository will help every js frontend-backend developer and beginners are very helpful. This repository is coming with beginners in mind.
 
+Credit - https://github.com/Rakib011110
+
 
 <details>
 <summary>
